@@ -1,0 +1,6 @@
+/*
+  Archivo para configurar practicas de desarrollo sobre el codigo, tabulaciones y otras cosas
+*/
+{
+  "extends": "next/core-web-vitals"
+}
